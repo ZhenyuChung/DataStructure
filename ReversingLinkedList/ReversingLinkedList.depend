@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505744282 source:g:\project\datastructure\reversinglinkedlist\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

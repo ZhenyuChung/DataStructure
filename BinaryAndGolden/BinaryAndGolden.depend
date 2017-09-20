@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1505791223 source:g:\project\datastructure\binaryandgolden\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<time.h>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+
